@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.App{
+  padding: 20px;
+  background-color: lightblue;
+  color: black;
+}
+
+.puppyCard{
+  border: 2px solid black;
+  padding: 5px;
+  background-color: white;
+  text-align: left;
+  font-family:'Times New Roman', Times, serif
+}
